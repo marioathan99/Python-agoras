@@ -14,7 +14,8 @@ This little Python program will:
    git clone https://github.com/yourusername/pythagoras-theorem.git  
    cd pythagoras-theorem
 2. Run the script:
-    python hypotenuse.py
+   ```bash
+   python hypotenuse.py
 
 Why?
 Because triangles are always right.
